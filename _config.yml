@@ -1,0 +1,11 @@
+title: "My GitPages Site"
+description: "A minimal starter for GitPages"
+theme: minima
+
+# Default markdown processor used by GitHub Pages compatible builds
+markdown: kramdown
+
+# These are intentionally blank. The GitPages build system will
+# override them during deployment.
+url: ""
+baseurl: ""
